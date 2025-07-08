@@ -1,12 +1,10 @@
 package ru.dan_bat.demo
 
-import ru.dan_bat.demo.scenes.fog.FogDemo
 import de.fabmax.kool.KoolContext
 import de.fabmax.kool.util.Color
 import de.fabmax.kool.util.ColorGradient
 import de.fabmax.kool.util.MdColor
 import ru.dan_bat.demo.scenes.*
-import ru.dan_bat.demo.scenes.shapezone.SimpleShapesZone
 import kotlin.math.max
 
 object Demos {
