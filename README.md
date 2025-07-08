@@ -1,3 +1,7 @@
+## Other languages
+
+[Russian](https://github.com/bat1set/ClearDemo/blob/master/readme/ru_ru.md) [Deutsch](https://github.com/bat1set/ClearDemo/blob/master/readme/de_de.md)
+
 ## Description
 
 This project is an adapted version of the demonstration example provided by [kool-engine](https://github.com/kool-engine/kool/tree/main/kool-demo/src/commonMain/kotlin/de/fabmax/kool/demo). The primary difference lies in the inclusion of a modification that allows the use of custom fonts.
